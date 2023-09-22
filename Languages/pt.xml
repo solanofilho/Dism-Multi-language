@@ -843,7 +843,7 @@ Special thanks to JNylson
     <String Target="开始菜单以及Windows体验" Link="Iniciar &amp; Experiência do Windows"/>
 
     <!--右键菜单管理-->
-    <String Target="右键菜单管理 - 禁用不需要的菜单提高响应速度" Link="Gerenciar Menu de Contexto: Desative itens desnecessário para melhorar resposta do Widnows Explorer"/>
+    <String Target="右键菜单管理 - 禁用不需要的菜单提高响应速度" Link="Gerenciar Menu de Contexto: Desative itens desnecessário para melhorar resposta do Windows Explorer"/>
     <String Target="禁用可执行文件的“兼容性疑难解答”右键菜单（by 莫失莫忘）" Link="Desativar menu de contexto 'Solucionar Problemas de Compatibilidade' em executáveis (by MoWangMoShi)"/>
     <String Target="禁用文件、文件夹以及磁盘的“使用Windows Defender扫描”右键菜单（by 莫失莫忘）" Link="Desativar menu de contexto 'Verificar com Windows Defender' em arquivos, pastas e discos (by MoWangMoShi)"/>
     <String Target="禁用文件、磁盘以及属性的“还原以前版本”右键菜单（by 莫失莫忘）" Link="Desativar &quot;Restaurar para versões anteriores&quot; do menu de contexto em arquivos, discos e propriedades (by MoWangMoShi)"/>
